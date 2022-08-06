@@ -1,0 +1,7 @@
+.idea
+.env
+*.sqlite
+node_modules
+*.bak
+schema_mysql
+.DS_Store
